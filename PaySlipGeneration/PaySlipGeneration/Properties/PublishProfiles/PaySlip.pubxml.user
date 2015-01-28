@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\PaySlipPublish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ASPSnippets.SmsAPI.dll">
+      <publishTime>12/15/2014 13:02:28</publishTime>
+    </File>
+    <File Include="bin/ImapLibrary.dll">
+      <publishTime>12/17/2014 16:28:50</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>12/01/2014 15:24:28</publishTime>
+    </File>
+    <File Include="bin/PaySlipGeneration.dll">
+      <publishTime>01/08/2015 10:51:33</publishTime>
+    </File>
+    <File Include="bin/XMLFile1.xml">
+      <publishTime>01/09/2015 13:18:45</publishTime>
+    </File>
+    <File Include="bin/XMLFile12.xml">
+      <publishTime>05/12/2014 10:54:37</publishTime>
+    </File>
+    <File Include="frmLogin.aspx">
+      <publishTime>05/12/2014 13:56:27</publishTime>
+    </File>
+    <File Include="frmPaySlip.aspx">
+      <publishTime>12/17/2014 19:15:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/28/2014 17:58:19</publishTime>
+    </File>
+    <File Include="Images/MenloLogo.png">
+      <publishTime>12/04/2014 11:21:32</publishTime>
+    </File>
+    <File Include="Images/MenloLogo1.gif">
+      <publishTime>12/01/2014 19:09:07</publishTime>
+    </File>
+    <File Include="Images/MenloLogo11.png">
+      <publishTime>12/01/2014 18:47:28</publishTime>
+    </File>
+    <File Include="Images/MenloLogo2.gif">
+      <publishTime>12/01/2014 19:09:07</publishTime>
+    </File>
+    <File Include="Images/MenloLogo3.gif">
+      <publishTime>12/01/2014 20:04:30</publishTime>
+    </File>
+    <File Include="Images/MenloLogo4.jpg">
+      <publishTime>12/01/2014 20:04:40</publishTime>
+    </File>
+    <File Include="Images/Menlologo5.png">
+      <publishTime>12/04/2014 19:13:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2014 19:51:51</publishTime>
+    </File>
+    <File Include="XMLFile1.xml">
+      <publishTime>01/09/2015 13:18:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

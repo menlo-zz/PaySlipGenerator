@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PaySlip>  
+    <Employee>
+      <EmpRec EmpID="111" MailID="achyuthb@menlo-technologies.com"/>
+      <EmpRec EmpID="128" MailID="amitk@menlo-technologies.com"/>
+      <EmpRec EmpID="090" MailID="anilt@menlo-technologies.com"/>
+      <EmpRec EmpID="046" MailID="aravinds@menlo-technologies.com"/>
+      <EmpRec EmpID="060" MailID="aravinderr@menlo-technologies.com"/>
+      <EmpRec EmpID="049" MailID="babuu@menlo-technologies.com"/>
+      <EmpRec EmpID="113" MailID="balajir@menlo-technologies.com"/>
+      <EmpRec EmpID="132" MailID="chandans@menlo-technologies.com"/>
+      <EmpRec EmpID="123" MailID="devinathk@menlo-technologies.com"/>
+      <EmpRec EmpID="126" MailID="eshwarid@menlo-technologies.com"/>
+      <EmpRec EmpID="059" MailID="gayatrib@menlo-technologies.com"/>
+      <EmpRec EmpID="009" MailID="harid@menlo-technologies.com"/>
+      <EmpRec EmpID="109" MailID="himad@menlo-technologies.com"/>
+      <EmpRec EmpID="137" MailID="jayasreek@menlo-technologies.com"/>
+      <EmpRec EmpID="037" MailID="joydevs@menlo-technologies.com"/>
+      <EmpRec EmpID="001" MailID="kalyanj@menlo-technologies.com"/>
+      <EmpRec EmpID="102" MailID="laharib@menlo-technologies.com"/>
+      <EmpRec EmpID="103" MailID="Madhuc@menlo-technologies.com"/>
+      <EmpRec EmpID="075" MailID="mahipalk@menlo-technologies.com"/>
+      <EmpRec EmpID="107" MailID="maruthir@menlo-technologies.com"/>
+      <EmpRec EmpID="089" MailID="nagarjunai@menlo-technologies.com"/>
+      <EmpRec EmpID="136" MailID="nagendrai@menlo-technologies.com"/>
+      <EmpRec EmpID="074" MailID="narasimhar@menlo-technologies.com"/>
+      <EmpRec EmpID="064" MailID="narendarv@menlo-technologies.com"/>
+      <EmpRec EmpID="108" MailID="nareshk@menlo-technologies.com"/>
+      <EmpRec EmpID="125" MailID="nareshy@menlo-technologies.com"/>
+      <EmpRec EmpID="081" MailID="niranjanar@menlo-technologies.com"/>
+      <EmpRec EmpID="129" MailID="pavanm@menlo-technologies.com"/>
+      <EmpRec EmpID="056" MailID="phanir@menlo-technlogies.com"/>
+      <EmpRec EmpID="092" MailID="pradeepc@menlo-technologies.com"/>
+      <EmpRec EmpID="073" MailID="pradeepn@menlo-technologies.com"/>
+      <EmpRec EmpID="TE002" MailID="praveenk@menlo-technologies.com"/>
+      <EmpRec EmpID="121" MailID="praveena@menlo-technologies.com"/>
+      <EmpRec EmpID="004" MailID="priyas@menlo-technologies.com"/>
+      <EmpRec EmpID="076" MailID="purnaj@menlo-technologies.com"/>
+      <EmpRec EmpID="091" MailID="rajeshk@menlo-technologies.com"/>
+      <EmpRec EmpID="095" MailID="rajithar@menlo-technologies.com"/>
+      <EmpRec EmpID="067" MailID="ranik@menlo-technologies.com"/>
+      <EmpRec EmpID="097" MailID="ratnakumarik@menlo-technologies.com"/>
+      <EmpRec EmpID="065" MailID="ratnav@menlo-technologies.com"/>
+      <EmpRec EmpID="122" MailID="ravie@menlo-technologies.com"/>
+      <EmpRec EmpID="133" MailID="rohita@menlo-technologies.com"/>
+      <EmpRec EmpID="085" MailID="sandeepk@menlo-technologies.com"/>
+      <EmpRec EmpID="134" MailID="satheeshb@menlo-technologies.com"/>
+      <EmpRec EmpID="135" MailID="akhtars@menlo-technologies.com"/>
+      <EmpRec EmpID="086" MailID="shashankg@menlo-technologies.com"/>
+      <EmpRec EmpID="117" MailID="shivaa@menlo-technologies.com"/>
+      <EmpRec EmpID="120" MailID="sivakumarm@menlo-technologies.com"/>
+      <EmpRec EmpID="044" MailID="sivae@menlo-technologies.com"/>
+      <EmpRec EmpID="101" MailID="sivareddyk@menlo-technologies.com"/>
+      <EmpRec EmpID="078" MailID="sreetulasit@menlo-technologies.com"/>
+      <EmpRec EmpID="082" MailID="srilalithag@menlo-technologies.com"/>
+      <EmpRec EmpID="138" MailID="sridhart@menlo-technologies.com"/>
+      <EmpRec EmpID="083" MailID="srikanthd@menlo-technologies.com"/>
+      <EmpRec EmpID="068" MailID="srilathan@menlo-technologies.com"/>
+      <EmpRec EmpID="094" MailID="sujitht@menlo-technologies.com"/>
+      <EmpRec EmpID="132" MailID="sumand@menlo-technologies.com"/>
+      <EmpRec EmpID="114" MailID="suryavvs@menlo-technologies.com"/>
+      <EmpRec EmpID="071" MailID="sushmab@menlo-technologies.com"/>
+      <EmpRec EmpID="131" MailID="sushmag@menlo-technologies.com"/>
+      <EmpRec EmpID="106" MailID="Sushmithab@menlo-technologies.com"/>
+      <EmpRec EmpID="099" MailID="swapnag@menlo-technologies.com"/>
+      <EmpRec EmpID="087" MailID="vamsig@menlo-technologies.com"/>
+      <EmpRec EmpID="079" MailID="veerag@menlo-technologies.com"/>
+      <EmpRec EmpID="112" MailID="venkatb@menlo-technologies.com"/>
+      <EmpRec EmpID="033" MailID="venkatc@menlo-technologies.com"/>
+      <EmpRec EmpID="110" MailID="vijayg@menlo-technologies.com"/>
+      <EmpRec EmpID="115" MailID="viswav@menlo-technologies.com"/>
+      <EmpRec EmpID="084" MailID="lavaraju7@gmail.com"/>
+      <EmpRec EmpID="141" MailID="sravanc@menlo-technologies.com"/>
+      <EmpRec EmpID="139" MailID="saikiranp@menlo-technologies.com"/>
+      <EmpRec EmpID="140" MailID="shailiv@menlo-technologies.com"/>
+      <EmpRec EmpID="130" MailID="sushmaa304@gmail.com"/>
+           
+    </Employee>
+
+  <Trainee>
+    <TrainRec EmpID="133" MailID="rohita@menlo-technologies.com"/>
+   <TrainRec EmpID="33333" MailID="rohita@menlo-technologies.com"/>
+  </Trainee>
+</PaySlip>
+
+

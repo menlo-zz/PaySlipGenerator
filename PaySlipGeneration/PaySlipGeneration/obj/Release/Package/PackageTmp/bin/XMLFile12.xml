@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PaySlip>  
+    <Employee>
+      <EMP EmpId="242" Email="pavanm@menlo-technologies.com"/>
+      <EMP EmpId="133" Email="rohita@menlo-technologies.com"/>
+      <EMP EmpId="188" Email="akhtars@menlo-technologies.com"/>
+    </Employee>
+  <Trainee>
+    <TRAIN EmpId="133" Email="akhtars@menlo-technologies.com"/>
+  <TRAIN EmpId="134" Email="rohita@menlo-technologies.com"/>
+  </Trainee>
+</PaySlip>
+
+
