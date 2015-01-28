@@ -1,7 +1,0 @@
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\bin\PaySlipGeneration.dll.config
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\bin\PaySlipGeneration.dll
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\bin\PaySlipGeneration.pdb
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\obj\Release\PaySlipGeneration.ConfigErrorMessage.resources
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\obj\Release\PaySlipGeneration.csproj.GenerateResource.Cache
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\obj\Release\PaySlipGeneration.dll
-E:\MyProject\PaySlipGeneration\PaySlipGeneration\obj\Release\PaySlipGeneration.pdb
